@@ -11,3 +11,8 @@ This project aims to create a database for iFood, enabling the analysis and moni
 - Daily scheduling of Pipeline.
 - Views of principals data in Warehouse.
 - EDA of database.
+
+
+
+### references:
+- https://jozimarback.medium.com/using-github-actions-with-terraform-on-gcp-d473a37ddbd6
